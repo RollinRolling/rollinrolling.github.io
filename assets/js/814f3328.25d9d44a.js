@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrollinrolling_github_io=self.webpackChunkrollinrolling_github_io||[]).push([[472],{5513:i=>{i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uccab\ud3ec\uc2a4\ud2b8","permalink":"/blog/initial-post","unlisted":false,"date":"2025-06-18T00:00:00.000Z"}]}')}}]);

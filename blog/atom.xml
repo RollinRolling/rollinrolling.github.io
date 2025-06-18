@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rollinrolling.github.io/blog</id>
+    <title>떼굴뗴굴 Blog</title>
+    <updated>2025-06-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rollinrolling.github.io/blog"/>
+    <subtitle>떼굴뗴굴 Blog</subtitle>
+    <icon>https://rollinrolling.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫포스트]]></title>
+        <id>https://rollinrolling.github.io/blog/initial-post</id>
+        <link href="https://rollinrolling.github.io/blog/initial-post"/>
+        <updated>2025-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Initial Post]]></summary>
+        <content type="html"><![CDATA[<p>Initial Post</p>]]></content>
+        <author>
+            <name>Park Seongheon</name>
+        </author>
+        <author>
+            <name>Lee Uitae</name>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+</feed>
