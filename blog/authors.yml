@@ -1,0 +1,23 @@
+n30gu1:
+  name: Park Seongheon
+  title: App Developer @ Dada Education, CS Major @ The Catholic University of Korea
+  image_url: https://github.com/n30gu1.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/all-park-seongheon-articles"
+  socials:
+    x: n30gu1
+    linkedin: n30gu1
+    github: n30gu1
+
+happysmile:
+  name: Lee Uitae
+  title: Pwner @ CAT-Security @ The Catholic University of Korea
+  image_url: https://github.com/Director2ut.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/all-lee-uitae-articles"
+  socials:
+    x: 2ut15
+    linkedin: HappySmile
+    github: Director2ut
